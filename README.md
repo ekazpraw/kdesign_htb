@@ -1,2 +1,1 @@
-# kdesign_htb
-Kumpulan Hasil Design-Design
+Kumpulan Sebagian Hasil Design-Design Yang Dibuat Selama Ini.
